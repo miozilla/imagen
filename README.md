@@ -6,7 +6,7 @@ imagen : AI Image Model # Text-to-image diffusion model
 - To Generate image using a text prompt
 - To leverage ImageGenerationModel.from_pretrained("imagen-3.0-generate-002")
 
-## Python Snake Game by QWEN
+## ImageGenerationModel : Imagen 3.0
 
 ![imagen001.png](./media/imagen001.png)
 
