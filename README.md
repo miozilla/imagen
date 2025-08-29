@@ -3,7 +3,7 @@ imagen : AI Image Model # Text-to-image diffusion model
 
 
 ## Objective
-- To Generate image using text prompt
+- To generate image using text prompt
 - To leverage ImageGenerationModel.from_pretrained("imagen-3.0-generate-002")
 
 ## ImageGenerationModel : Imagen 3.0
